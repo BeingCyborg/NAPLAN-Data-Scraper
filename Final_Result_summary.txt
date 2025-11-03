@@ -1,0 +1,34 @@
+NAPLAN Data Collection Summary
+============================================================
+
+Collection Date: 2025-10-30 15:29:55
+Output Format: Wide (one row per School × Year)
+Total Records: 93
+Unique Schools: 49
+Years: [np.int64(2023), np.int64(2024)]
+
+Columns (24):
+  ACARA School ID, Year Page Visited, Year 3 Reading, Year 3 Writing, Year 3 Spelling, Year 3 Grammar, Year 3 Numeracy, Year 5 Reading, Year 5 Writing, Year 5 Spelling, Year 5 Grammar, Year 5 Numeracy, Year 7 Reading, Year 7 Writing, Year 7 Spelling, Year 7 Grammar, Year 7 Numeracy, Year 9 Reading, Year 9 Writing, Year 9 Spelling, Year 9 Grammar, Year 9 Numeracy, Participation School Percentage, Participation Australian Percentage
+
+Data Quality:
+  Missing values:
+    Year 3 Reading: 11 (11.8%)
+    Year 3 Writing: 11 (11.8%)
+    Year 3 Spelling: 11 (11.8%)
+    Year 3 Grammar: 11 (11.8%)
+    Year 3 Numeracy: 11 (11.8%)
+    Year 5 Reading: 12 (12.9%)
+    Year 5 Writing: 12 (12.9%)
+    Year 5 Spelling: 12 (12.9%)
+    Year 5 Grammar: 12 (12.9%)
+    Year 5 Numeracy: 12 (12.9%)
+    Year 7 Reading: 63 (67.7%)
+    Year 7 Writing: 63 (67.7%)
+    Year 7 Spelling: 63 (67.7%)
+    Year 7 Grammar: 63 (67.7%)
+    Year 7 Numeracy: 63 (67.7%)
+    Year 9 Reading: 62 (66.7%)
+    Year 9 Writing: 62 (66.7%)
+    Year 9 Spelling: 62 (66.7%)
+    Year 9 Grammar: 62 (66.7%)
+    Year 9 Numeracy: 62 (66.7%)
