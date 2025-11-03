@@ -2,6 +2,14 @@
 
 Scrapes Victorian school NAPLAN test results from myschool.edu.au. Collects scores across five domains (Reading, Writing, Spelling, Grammar, Numeracy) for year levels 3, 5, 7, and 9. Outputs structured CSV data for analysis.
 
+## Technologies
+
+- Python 3.8+
+- Selenium (browser automation)
+- Pandas (data processing)
+- BeautifulSoup (HTML parsing)
+- Jupyter Notebook
+
 ## Setup
 
 Requires Python 3.8+ and Chrome browser.
